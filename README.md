@@ -1,10 +1,15 @@
 Name : SANDHIYA S
 
 Company : CODTECH IT SOLUTIONS
+
 ID : CTO8DS6548
+
 Domain : EMBEDDED SYSTEMS
+
 Duration : August to September 2024
+
 Mentor : MUZZAMIL AHMED
+
 
 OVERVIEW OF THE PROJECT
 
@@ -31,4 +36,6 @@ Applications and Benefits:
 Educational Tool: Ideal for beginners to learn fundamental concepts of electronics and programming.
 Debugging and Testing: Useful for testing basic output functionality and verifying that the Arduino board and connections are working correctly.
 Foundation for Development: Provides a basic understanding that can be applied to more complex projects involving multiple LEDs, sensors, and other components.
+
+![Screenshot 2024-08-29 215751](https://github.com/user-attachments/assets/cb323730-5d71-4660-a45f-89d898bb5c54)
 
